@@ -48,5 +48,7 @@ export class PopupService {
 
     // Add to the DOM
     document.body.appendChild(popupEl);
+
+    debugger
   }
 }
